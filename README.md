@@ -1,4 +1,4 @@
-** Java Utils **
+**Java Utils**
 
 This repository contains a series of Java exercises focused on file system operations, structured across different levels. The project is built using Maven and adheres to specified best practices, including command-line execution and cross-platform compatibility.
 
@@ -28,9 +28,6 @@ The exercises cover fundamental file system interactions:
 
 To compile and run the project, please refer to the detailed instructions in `readme.txt` located at the root of this repository.
 
-## Structure
-
-The project code is organized into `level1` and `level2` packages within `src/main/java/`, with `application.Main.java` serving as the main entry point for executing all exercises sequentially. Configuration files are found in `src/main/resources/`.
 ---
 
 **I completed this exercise with the help of:**
@@ -41,7 +38,7 @@ Classmates YouTube tutorials Google searches Owen (AI assistant) Previous assign
 
 **Technologies Used**
 
-Java 21 IntelliJ IDEA Online documentation and tutorials
+Java 17 IntelliJ IDEA Online documentation and tutorials.
 
 ---
 
