@@ -2,7 +2,7 @@
 
 This repository contains a series of Java exercises focused on file system operations, structured across different levels. The project is built using Maven and adheres to specified best practices, including command-line execution and cross-platform compatibility.
 
-## Project Overview
+**Project Overview**
 
 The exercises cover fundamental file system interactions:
 * Listing directory contents alphabetically.
@@ -12,11 +12,11 @@ The exercises cover fundamental file system interactions:
 * Object serialization and deserialization to/from files.
 * Externalizing configuration parameters using `.properties` files for enhanced flexibility.
 
-## Technical Details
+**Technical Details**
 
-* **Language:** Java
-* **Build Tool:** Apache Maven
-* **IDEs Used:** IntelliJ IDEA
+* Language: Java
+* Build Tool: Apache Maven
+* IDE Used: IntelliJ IDEA
 * **Key Features:**
     * Command-line execution for all exercises.
     * `File.separator` for cross-platform path handling.
@@ -24,7 +24,7 @@ The exercises cover fundamental file system interactions:
     * Configuration through `.properties` files.
     * Adherence to coding best practices outlined in Sprint 0.
 
-## Getting Started
+**Getting Started**
 
 To compile and run the project, please refer to the detailed instructions in `readme.txt` located at the root of this repository.
 
