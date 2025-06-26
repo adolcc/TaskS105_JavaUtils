@@ -6,7 +6,7 @@ This document provides the essential commands to compile and run the project fro
 
 ## Prerequisites
 
-* Java Development Kit (JDK) 11 or newer
+* Java Development Kit (JDK) 17.
 * Apache Maven
 
 ---
